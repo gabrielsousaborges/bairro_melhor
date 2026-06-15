@@ -21,7 +21,7 @@ class PerfilScreen extends StatelessWidget {
                 radius: 28,
                 backgroundColor: Color(0xFF1565C0),
                 child: Text(
-                  'JM',
+                  'GB',
                   style: TextStyle(
                     color: Colors.white,
                     fontWeight: FontWeight.bold,
@@ -33,10 +33,10 @@ class PerfilScreen extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text(
-                    'Joao Morador',
+                    'Gabriel Borges',
                     style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
                   ),
-                  Text('Vila Madalena, SP'),
+                  Text('Vila Nova York, SP'),
                 ],
               ),
             ],
